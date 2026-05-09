@@ -3,7 +3,7 @@
 – What programming language are you selecting? Which version? Java
 – Do you have your GitHub account set up? Yes
 – Do you have a public repository for your Project? Yes
-– What is the link to your GitHub repository? ---
+– What is the link to your GitHub repository? https://github.com/Zebris2x/FinanceHelper
 – If you are in a group, does everyone have access to the github repo? NA
 – Do you have a “Hello World” program that compiles and runs? Yes
 – Where is the entry point to your project? (src/main/Main.java for
