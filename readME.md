@@ -9,4 +9,12 @@
 – Where is the entry point to your project? (src/main/Main.java for
 example) - src/main/java/org/example/Main.java
 
+---
 
+WHAT DO YOU WANT TO ACCOMPLISH?
+
+I will develop a application that will be able to calculate your margin from your income and out put a report that allow you to see the full pciture and make it easy to map out goals IE savings, buying a home.
+
+Any obstaicles with Design Patterns implementations?
+
+None at this time. Everything seems simple, I have to make sure everything is planned out and work well toegther.
