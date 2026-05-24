@@ -392,3 +392,9 @@ WARNING: Unmatched cancel notification for request id 33
 2026.05.23 23:43:36 INFO  no build target found for /Users/cccllc/Desktop/SE 350/FinanceHelper/src/main/java/com/financehelper/observer/LowMarginObserver.java. Using fallback presentation compiler.
 2026.05.23 23:51:41 INFO  no build target found for /Users/cccllc/Desktop/SE 350/FinanceHelper/src/main/java/com/financehelper/observer/LowMarginObserver.java. Using fallback presentation compiler.
 2026.05.23 23:52:00 INFO  no build target found for /Users/cccllc/Desktop/SE 350/FinanceHelper/src/main/java/com/financehelper/observer/LowMarginObserver.java. Using fallback presentation compiler.
+2026.05.23 23:54:51 INFO  no build target found for /Users/cccllc/Desktop/SE 350/FinanceHelper/src/main/java/com/financehelper/observer/LowMarginObserver.java. Using fallback presentation compiler.
+2026.05.23 23:55:04 INFO  no build target found for /Users/cccllc/Desktop/SE 350/FinanceHelper/src/main/java/com/financehelper/ui/ConsoleUI.java. Using fallback presentation compiler.
+2026.05.23 23:55:04 WARN  no build target for: /Users/cccllc/Desktop/SE 350/FinanceHelper/src/main/java/com/financehelper/ui/ConsoleUI.java
+2026.05.23 23:55:04 INFO  no build target found for /Users/cccllc/Desktop/SE 350/FinanceHelper/src/main/java/com/financehelper/ui/ConsoleUI.java. Using fallback presentation compiler.
+2026.05.23 23:55:04 INFO  no build target found for /Users/cccllc/Desktop/SE 350/FinanceHelper/src/main/java/com/financehelper/ui/ConsoleUI.java. Using fallback presentation compiler.
+2026.05.23 23:55:04 INFO  no build target found for /Users/cccllc/Desktop/SE 350/FinanceHelper/src/main/java/com/financehelper/ui/ConsoleUI.java. Using fallback presentation compiler.
