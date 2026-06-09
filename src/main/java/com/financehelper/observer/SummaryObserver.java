@@ -3,7 +3,6 @@ package com.financehelper.observer;
 import com.financehelper.model.MarginResult;
 
 public class SummaryObserver implements MarginObserver {
-
     @Override
     public void onMarginCalculated(MarginResult r) {
         System.out.println("\n--- Results ---");

@@ -8,7 +8,7 @@ public class LowMarginObserver implements MarginObserver {
     @Override
     public void onMarginCalculated(MarginResult r) {
         if (r.getMarginPercentage() < THRESHOLD)
-            System.out.printf("%n[ALERT] Margin %.1f%% is below %.0f%% — review your expenses.%n",
+            System.out.printf("%n[ALERT] Margin %.1f%% is below %.0f%% -- review your expenses.%n",
                 r.getMarginPercentage(), THRESHOLD);
     }
 }

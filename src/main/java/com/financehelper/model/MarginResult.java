@@ -10,8 +10,9 @@ public class MarginResult {
     private final double marginPercentage;
     private final List<Expense> expenses;
 
-    public MarginResult(double income, double totalExpenses, double savingsGoal,
-                        double margin, double marginPercentage, List<Expense> expenses) {
+    // Package-private: use MarginResultBuilder to construct
+    MarginResult(double income, double totalExpenses, double savingsGoal,
+                 double margin, double marginPercentage, List<Expense> expenses) {
         this.income           = income;
         this.totalExpenses    = totalExpenses;
         this.savingsGoal      = savingsGoal;
