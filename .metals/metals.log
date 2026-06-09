@@ -2128,3 +2128,20 @@ WARNING: Unmatched cancel notification for request id 18
 2026.06.09 10:40:46 INFO  no build target found for /Users/cccllc/Desktop/SE 350/FinanceHelper/src/main/java/com/financehelper/ui/ConsoleUI.java. Using fallback presentation compiler.
 2026.06.09 10:40:50 INFO  no build target found for /Users/cccllc/Desktop/SE 350/FinanceHelper/src/main/java/com/financehelper/ui/ConsoleUI.java. Using fallback presentation compiler.
 2026.06.09 10:43:42 INFO  no build target found for /Users/cccllc/Desktop/SE 350/FinanceHelper/src/main/java/com/financehelper/template/ReportGenerator.java. Using fallback presentation compiler.
+2026.06.09 12:47:29 INFO  Shutting down server
+2026.06.09 12:47:29 INFO  Memory monitor stopped
+2026.06.09 12:47:29 INFO  shutting down Metals
+2026.06.09 12:47:29 INFO  Exiting server
+2026.06.09 12:47:29 ERROR Unexpected error initializing server: 
+org.eclipse.lsp4j.jsonrpc.ResponseErrorException: Request window/showMessageRequest failed with message: Canceled
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.handleResponse(RemoteEndpoint.java:214)
+	at org.eclipse.lsp4j.jsonrpc.RemoteEndpoint.consume(RemoteEndpoint.java:198)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.handleMessage(StreamMessageProducer.java:189)
+	at org.eclipse.lsp4j.jsonrpc.json.StreamMessageProducer.listen(StreamMessageProducer.java:97)
+	at org.eclipse.lsp4j.jsonrpc.json.ConcurrentMessageProcessor.run(ConcurrentMessageProcessor.java:97)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:545)
+	at java.util.concurrent.FutureTask.run(FutureTask.java:328)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1095)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:619)
+	at java.lang.Thread.run(Thread.java:1447)
+

@@ -54,7 +54,7 @@ Problems:
 
 I ran into a issue where the command line prompts wasn't responding to the users inputs. It was only responding on 1 and 6. After some debugging I was able to modify the ConsoleUi file to remove a syntax error which allowed fucntionality to flow.
 
-More power!
+More power!!
 Things I would implement to improve this application:
 Report Generator PDF format:
 This report Generator would be able to take the outputed format and give a more customized viewing.
@@ -62,3 +62,15 @@ Database storage:
 I will also implement database storage for these genertated reports to be viewed at clients request.
 Web app:
 I would also host this application on a server for web app usage
+
+HOW TO USE:
+
+- Open Java Project in desired IDE
+- Once project is opened, find Main.Java file
+- Click the run button
+- The terminal will open, giving you a list of options -
+- To calculate your Margin, select 1/
+- Follow each prompt until complete than enter done/
+- Your fiamcial summary will populate in the terminal.
+- Click save or no to save.
+- You will be returned back to the main screen.
